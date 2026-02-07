@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rtemis",
+    "url": "https://github.com/rtemis-org/rtemis"
+  },
+  {
+    "package": "rtemisalpha",
+    "url": "https://github.com/rtemis-org/rtemis-legacy"
+  }
+]
