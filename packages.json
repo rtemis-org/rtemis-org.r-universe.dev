@@ -4,6 +4,10 @@
     "url": "https://github.com/rtemis-org/rtemis"
   },
   {
+    "package": "rtemisbio",
+    "url": "https://github.com/rtemis-org/rtemisbio"
+  },
+  {
     "package": "rtemisutils",
     "url": "https://github.com/rtemis-org/rtemisutils"
   }
