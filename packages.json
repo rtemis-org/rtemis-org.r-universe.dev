@@ -4,11 +4,11 @@
     "url": "https://github.com/rtemis-org/rtemis"
   },
   {
-    "package": "rtemisbio",
-    "url": "https://github.com/rtemis-org/rtemisbio"
+    "package": "rtemis.bio",
+    "url": "https://github.com/rtemis-org/rtemis.bio"
   },
   {
-    "package": "rtemisutils",
-    "url": "https://github.com/rtemis-org/rtemisutils"
+    "package": "rtemis.utils",
+    "url": "https://github.com/rtemis-org/rtemis.utils"
   }
 ]
