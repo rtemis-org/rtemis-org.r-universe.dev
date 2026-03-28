@@ -4,6 +4,11 @@
     "url": "https://github.com/rtemis-org/rtemis"
   },
   {
+    "package": "rtemis.a3",
+    "url": "https://github.com/rtemis-org/a3",
+    "subdir": "r"
+  },
+  {
     "package": "rtemis.bio",
     "url": "https://github.com/rtemis-org/rtemis.bio"
   },
