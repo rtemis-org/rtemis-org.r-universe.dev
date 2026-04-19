@@ -24,5 +24,10 @@
     "package": "rtemis.draw",
     "url": "https://github.com/rtemis-org/draw",
     "subdir": "r"
+  },
+  {
+    "package": "rtemis.llm",
+    "url": "https://github.com/rtemis-org/llm",
+    "subdir": "r"
   }
 ]
