@@ -25,5 +25,9 @@
   {
     "package": "rtemis.core",
     "url": "https://github.com/rtemis-org/rtemis.core"
+  },
+  {
+    "package": "infoveillance",
+    "url": "https://github.com/rtemis-org/infoveillance"
   }
 ]
