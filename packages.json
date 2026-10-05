@@ -1,4 +1,8 @@
-[
+[   
+  {
+    "package": "rtemis.core",
+    "url": "https://github.com/rtemis-org/rtemis.core"
+  },
   {
     "package": "rtemis",
     "url": "https://github.com/rtemis-org/rtemis"
@@ -21,10 +25,6 @@
   {
     "package": "rtemis.server",
     "url": "https://github.com/rtemis-org/rtemis.server"
-  },
-  {
-    "package": "rtemis.core",
-    "url": "https://github.com/rtemis-org/rtemis.core"
   },
   {
     "package": "infoveillance",
