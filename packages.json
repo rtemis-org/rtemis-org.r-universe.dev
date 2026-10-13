@@ -27,6 +27,10 @@
     "url": "https://github.com/rtemis-org/rtemis.server"
   },
   {
+    "package": "rtemis.dplot3",
+    "url": "https://github.com/rtemis-org/rtemis.dplot3"
+  },
+  {
     "package": "infoveillance",
     "url": "https://github.com/rtemis-org/infoveillance"
   }
