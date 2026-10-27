@@ -18,6 +18,10 @@
     "subdir": "r"
   },
   {
+    "package": "croissant",
+    "url": "https://github.com/rtemis-org/croissant"
+  },
+  {
     "package": "rtemis.a3",
     "url": "https://github.com/rtemis-org/a3",
     "subdir": "r"
