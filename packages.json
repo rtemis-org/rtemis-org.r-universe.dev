@@ -7,6 +7,10 @@
     "package": "rtemis",
     "url": "https://github.com/rtemis-org/rtemis"
   },
+  {
+    "package": "rtemis.ml",
+    "url": "https://github.com/rtemis-org/rtemis.ml"
+  },
    {
     "package": "rtemis.llm",
     "url": "https://github.com/rtemis-org/llm",
