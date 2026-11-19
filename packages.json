@@ -41,5 +41,9 @@
   {
     "package": "infoveillance",
     "url": "https://github.com/rtemis-org/infoveillance"
+  },
+  {
+    "package": "R8",
+    "url": "https://github.com/rtemis-org/r8", "subdir": "R8"
   }
 ]
