@@ -44,6 +44,7 @@
   },
   {
     "package": "R8",
-    "url": "https://github.com/rtemis-org/r8", "subdir": "R8"
+    "url": "https://github.com/rtemis-org/r8",
+    "subdir": "R8"
   }
 ]
